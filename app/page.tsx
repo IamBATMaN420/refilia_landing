@@ -69,7 +69,7 @@ export default function Home() {
               <div className="flex justify-center">
                 <div className="relative w-full max-w-sm aspect-[4/5] overflow-hidden rounded-xl border bg-background shadow-xl">
                   <Image
-                    src="/placeholder.svg?height=600&width=480"
+                    src="/WhatsApp Image 2025-03-16 at 13.16.36_27ae037a.jpg"
                     alt="Refilia App Screenshot"
                     width={480}
                     height={600}
@@ -144,9 +144,9 @@ export default function Home() {
               <div className="flex justify-center lg:order-last">
                 <div className="relative w-full max-w-sm">
                   <Image
-                    src="/placeholder.svg?height=600&width=300"
+                    src="/WhatsApp Image 2025-03-16 at 12.53.53_8f742455.jpg"
                     alt="Refilia App"
-                    width={300}
+                    width={400}
                     height={600}
                     className="mx-auto"
                   />
@@ -215,7 +215,7 @@ export default function Home() {
                     </ul>
                     <div className="pt-4">
                       <p className="text-3xl font-bold">
-                        ₹299<span className="text-sm font-normal text-muted-foreground">/year</span>
+                        ₹2990<span className="text-sm font-normal text-muted-foreground">/year</span>
                       </p>
                     </div>
                   </div>
