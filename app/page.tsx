@@ -144,7 +144,7 @@ export default function Home() {
               <div className="flex justify-center lg:order-last">
                 <div className="relative w-full max-w-sm">
                   <Image
-                    src="/WhatsApp Image 2025-03-16 at 12.53.53_8f742455.jpg"
+                    src="/WhatsApp Image 2025-03-16 at 13.16.36_27ae037a.jpg"
                     alt="Refilia App"
                     width={400}
                     height={600}
